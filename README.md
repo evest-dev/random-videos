@@ -1,6 +1,6 @@
 # randomvideos
 
-![screens](https://github.com/evest-dev/random-videos/assets/74104584/8e22cba7-d7b8-4a54-9f7e-5beea3c98c84)
+![screens](https://github.com/evest-dev/random-videos/assets/74104584/09377271-afad-4428-93af-18801238695b)
 ![screen_record](https://github.com/evest-dev/random-videos/assets/74104584/d4ee7a4d-a2c5-440b-b4cb-3f019d83d6cf)
 
 ## Includes
