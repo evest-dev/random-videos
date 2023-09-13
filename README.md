@@ -1,16 +1,11 @@
 # randomvideos
 
-A new Flutter project.
+![screens](https://github.com/evest-dev/random-videos/assets/74104584/18c8bed6-85bc-4a05-9aff-3cd2c5f56375)
+![screen_record](https://github.com/evest-dev/random-videos/assets/74104584/d4ee7a4d-a2c5-440b-b4cb-3f019d83d6cf)
 
-## Getting Started
+## Includes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Data such as video link, username, description, likes, views and comments hosted in a list managed in [provider](https://pub.dev/packages/provider)
+- Videos played locally using the library [video_player](https://pub.dev/packages/video_player)
+- Basic principles of clean architecture
+- Running on Android and iOS
