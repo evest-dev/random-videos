@@ -8,4 +8,5 @@
 - Data such as video link, username, description, likes, views and comments hosted in a list managed in [provider](https://pub.dev/packages/provider)
 - Videos played locally using the library [video_player](https://pub.dev/packages/video_player)
 - Basic principles of clean architecture
+- Dark theme Default
 - Running on Android and iOS
